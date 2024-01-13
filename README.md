@@ -1,5 +1,9 @@
 # DVI Parser
 
+> This package is build on top of the work of [@artisticat1](https://github.com/artisticat1/dvi2html/tree/ww-modifications), [@drgrice1](https://github.com/drgrice1/dvi2html/tree/ww-modifications) and [@kisonecat](https://github.com/kisonecat/dvi2html). Thanks to them for their great work!
+>
+> What I did is to build and publish the package on npm to make it easier to use in other projects.
+
 A live demo is available at https://people.math.osu.edu/fowler.291/latex/
 
 Built using https://github.com/FabriceSalvaire/PyDVI and the work of @tmanderson
